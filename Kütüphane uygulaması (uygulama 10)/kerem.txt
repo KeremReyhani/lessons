@@ -1,0 +1,4 @@
+kerem
+Babalar ve Oðullar, Turgenyev, True 
+Sherlock Holmes, Conan Doyle, False 
+Dönüþüm, Kafka, False 
